@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656056985681",
+    "project_id": "spk-app-551e7",
+    "storage_bucket": "spk-app-551e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656056985681:android:339f9946ee3dac06397070",
+        "android_client_info": {
+          "package_name": "com.example.spk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656056985681-437obgrcmk2bi25c2uslsgubgl73nfs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVvxWBmqNHeTreXWv17qyni1dTi68KhyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656056985681-437obgrcmk2bi25c2uslsgubgl73nfs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
